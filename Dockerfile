@@ -1,14 +1,8 @@
-# Stage 1: Build the application
-FROM node:22 AS builder
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS builder
+WORKDIR /build
+COPY . /build
+RUN dotnet tool install retypeapp --tool-path /bin
+RUN retype build --output .docker-build/
 
-# Set the working directory in the container
-WORKDIR /app
-
-COPY . .
-RUN npm install retypeapp --global
-
-
-EXPOSE 5000
-CMD ["retype", "start"]
-
-
+FROM httpd:latest
+COPY --from=builder /build/.docker-build/ /usr/local/apache2/htdocs/
