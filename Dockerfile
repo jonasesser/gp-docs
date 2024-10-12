@@ -6,3 +6,5 @@ RUN retype build --output .docker-build/
 
 FROM httpd:latest
 COPY --from=builder /build/.docker-build/ /usr/local/apache2/htdocs/
+
+CMD ["httpd-foreground"]
