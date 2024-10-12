@@ -9,15 +9,15 @@ poweredByRetype: true         # Set to false to remove "Powered by Retype"
 # -----------------------------------------------------------------------------
 
 breadcrumb:
-  enabled: true               # Enabled by default on Pro projects
+  enabled: false               # Enabled by default on Pro projects
   home: Home                  # Custom label for the first item
-  home: ":icon-home:"         # or, use an icon
+  #home: ":icon-home:"         # or, use an icon
   separator: "|"              # Custom item separator
 
 # -----------------------------------------------------------------------------
 
 outbound:
-  enabled: true               # Enabled by default on Pro projects
+  enabled: false               # Enabled by default on Pro projects
   custom: 'rel="noopener noreferrer"' # custom attribute added to links
   icon: link-external         # A custom icon name, :emoji:, <svg>, or
                               # a path to a file
@@ -72,12 +72,12 @@ links:                        # Custom links to add to the top bar
                               # See also: footer.links
   - text: Home                # The text to use for the link
     link: https://example.com # Link to an internal file or external URL
-  - text: API
-    link: /getting-started.md # Link to an internal file
-    icon: gear                # A custom icon name, :emoji:, <svg>, or
+  #- text: API
+    #link: /getting-started.md # Link to an internal file
+    #icon: gear                # A custom icon name, :emoji:, <svg>, or
                               # a path to a file
-    iconAlign: left           # Icon alignment, to the left or right
-    target: blank             # Custom target
+  #  iconAlign: left           # Icon alignment, to the left or right
+  #  target: blank             # Custom target
                               # Use "blank" to open link in a new window
 
 # -----------------------------------------------------------------------------
@@ -91,10 +91,6 @@ footer:
       link: license.md        # Point to an internal file or external URL
 
 # -----------------------------------------------------------------------------
-
-cache:
-  busting: query              # Cache busting strategy
-                              # Options: none | path | query (default)
 
 # -----------------------------------------------------------------------------
 
@@ -180,9 +176,8 @@ search:                       # Custom configuration of the website search
 # -----------------------------------------------------------------------------
 
 serve:
-  host: 127.0.0.1             # Serve the website from this host location
-  host: 127.0.0.1:5005        # Custom port also supported
-  port: 5000                  # Custom port configured separately from host
+  #host: 127.0.0.1             # Serve the website from this host location
+  host: 127.0.0.1:5000        # Custom port also supported
   watch:
     mode: memory              # Where to host files from during retype watch
                               # Options include: memory (default) | disk
