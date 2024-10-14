@@ -21,3 +21,5 @@ Benefits:
 This system keeps server economies stable while enhancing the roleplay experience by offering a realistic way to transport characters and assets across the game world.
 
 THE TRANSFER IS ONLY FOR GP-Servers. If you are an server developer and have interest to also allow a transfer from and to your server then please open a ticket on discord.
+
+Restrictions: You cannot transfer anything which is not existing on the target server. As example if a vehicle like BMW Z4 is not existing on target it is not possible to transfer it. 
