@@ -1,4 +1,4 @@
-![](images/8wide.jpg)
+![](images/ms25.jpeg)
 
 # What is Gangsta's Paradise?
 
