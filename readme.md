@@ -1,4 +1,4 @@
-![](page-with-header.png)
+![](images/8wide.jpg)
 
 # What is Gangsta's Paradise?
 

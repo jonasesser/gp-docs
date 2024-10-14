@@ -56,8 +56,8 @@ url: docs.my-gp.de            # The base URL of your website
 
 branding:
   title: Gangsta's Paradise              # Your custom website title; keep it short
-  logo: /logo.png             # Path to a logo file
-  logoDark: /logo-dark.png    # Path to a logo file to use in dark mode
+  #logo: /logo.png             # Path to a logo file
+  #logoDark: /logo-dark.png    # Path to a logo file to use in dark mode
   logoAlign: right            # Align the logo to the right or the left
   label: Docs                 # Optional label
                               # To remove the label, remove this config
