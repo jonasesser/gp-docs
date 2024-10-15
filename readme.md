@@ -45,5 +45,27 @@ A significant breakthrough came with the discovery of the Athena framework. Year
 The development of Gangsta's Paradise has been a long and challenging journey, but one driven by passion and a vision for creating immersive, multilingual roleplaying experiences. As the project continues to evolve, the goal remains to grow it into a expansive platform and foster a vibrant, engaged community.
 
 
+## Recent Developments and Future Direction
+
+Gangsta's Paradise has undergone significant changes and conceptual revisions recently. Initially, the plan was to actively expand the gp-core in collaboration with the developer community. A point system was implemented to reward developers and potentially revoke access for inactive contributors. While this approach was initially successful, over time, contributions and bug reports decreased.
+
+In response to these challenges, we've decided to shift our focus. The gp-core will now receive only minimal updates, with our primary attention directed towards the GP Server instances. This pivot has given rise to a hosting-centric approach, allowing us to easily launch additional game server instances.
+
+### New Hosting Model
+
+Our new strategy involves providing instances with an extended core code. Server teams will not have direct access to the servers or the source code. However, they are permitted to develop and provide their own plugins or mods. These can be tested with the gp-core beforehand and will then be automatically integrated into the closed server code.
+
+This approach allows us to:
+
+1. Maintain control over the core infrastructure
+2. Ensure stability and security of the main codebase
+3. Encourage innovation through custom plugins and mods
+4. Streamline the process of launching new server instances
+
+We believe this new direction will foster a more sustainable development ecosystem while still allowing for creativity and customization within the Gangsta's Paradise universe.
+
+
+
+
 
 
