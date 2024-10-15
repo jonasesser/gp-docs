@@ -4,7 +4,10 @@ This section provides important information about known issues, limitations, and
 
 ## Important Note:
 
-Machines/devices must not be moved after being filled with items. If they are moved, all items and productions will be lost. Current solution: Wait until all productions are completed and then completely empty the machine. After that, it can be safely moved to another location.
+- Machines/devices must not be moved after being filled with items. If they are moved, all items and productions will be lost. Current solution: Wait until all productions are completed and then completely empty the machine. After that, it can be safely moved to another location.
+- It could happen ON THE FIRST CONNECT. Just restart and try again. No Fear you don't need to download all again
+![](images/issues/Disconnected.png)
+
 
 ## View and Create Issues
 
