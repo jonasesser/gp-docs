@@ -10,6 +10,8 @@ Link: [https://altv.run/mygp](https://altv.run/mygp)
 
 Server IP: [http://cdn-crossingroads.my-gp.de:7788](http://cdn-crossingroads.my-gp.de:7788)
 
+Owner: [Jonas Esser](https://github.com/jonasesser)
+
 ## BerlinBeat
 
 This is a german only instance [German | altv voice]
@@ -17,6 +19,8 @@ This is a german only instance [German | altv voice]
 Not listed on the alt:V server list. You need use direct connect to join.
 
 Server IP: [http://cdn-berlinbeat.my-gp.de:7288](http://cdn-berlinbeat.my-gp.de:7288)
+
+Owner: TBA
 
 ## ParisHustle
 
@@ -26,4 +30,4 @@ Not listed on the alt:V server list. You need use direct connect to join.
 
 Server IP: [http://cdn-parishustle.my-gp.de:7188](http://cdn-parishustle.my-gp.de:7188)
 
-
+Owner: TBA
