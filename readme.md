@@ -28,3 +28,17 @@ Remember, in Gangsta's Paradise, your experience is what you make of it. Whether
 Do you have a general inquiry? Please feel free to contact us by creating a ticket in our Discord Server.
 
 We ❤️ your feedback.
+
+## History
+
+The story of Gangsta's Paradise begins with a developer's journey into the world of roleplay servers. After years of professional experience in Java and .NET development, the creator's interest was piqued by GTA5 Roleplay servers.
+
+The first virtual life experience on "StateV," a server initially running on RageMP before switching to AltV, sparked an idea: to create a unique server from scratch. This led to a period of experimentation with the FiveM platform, filled with numerous attempts and valuable lessons learned.
+
+A significant breakthrough came with the discovery of the Athena framework. Years of dedicated work went into modifying and enhancing this core, resulting in the creation of the gp-core: Gangsta's Paradise Core system. This custom-built foundation, along with a multitude of plugins and enhancements, now powers the various instances of Gangsta's Paradise.
+
+The development of Gangsta's Paradise has been a long and challenging journey, but one driven by passion and a vision for creating immersive, multilingual roleplaying experiences. As the project continues to evolve, the goal remains to grow it into a expansive platform and foster a vibrant, engaged community.
+
+
+
+
