@@ -2,6 +2,8 @@
 
 ## Crossing Roads
 
+This is the main Server instance [Multilingual | altv voice]
+
 Listed on the alt:V server list. You can directly connect to it through alt:V Client.
 
 Link: [https://altv.run/mygp](https://altv.run/mygp)
@@ -10,11 +12,15 @@ Server IP: [http://cdn-crossingroads.my-gp.de:7788](http://cdn-crossingroads.my-
 
 ## BerlinBeat
 
+This is a german only instance [German | altv voice]
+
 Not listed on the alt:V server list. You need use direct connect to join.
 
 Server IP: [http://cdn-berlinbeat.my-gp.de:7288](http://cdn-berlinbeat.my-gp.de:7288)
 
 ## ParisHustle
+
+This is a french only instance [French | altv voice]
 
 Not listed on the alt:V server list. You need use direct connect to join.
 
