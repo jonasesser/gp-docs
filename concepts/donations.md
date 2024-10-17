@@ -19,6 +19,7 @@ To explore our premium offerings:
 3. Log in with your Discord account
 4. Choose "Subscriptions"
 
+
 ### What Premium Services Offer
 
 Our premium services focus on enhancing your overall experience without affecting in-game balance. Benefits include:
@@ -30,3 +31,13 @@ Our premium services focus on enhancing your overall experience without affectin
 We're committed to maintaining fair gameplay. Premium subscriptions will never provide in-game advantages such as increased funds, better vehicles, or advancement opportunities.
 
 Stay tuned for more exciting premium features as we continue to develop and improve our services!
+
+
+
+Here's a visual guide to help you navigate the subscription process:
+
+![Services Step 1](/images/howtos/services2.png)
+*Step 1: Navigate to the "Services" section and log in with your Discord account*
+
+![Services Step 2](/images/howtos/services1.png)
+*Step 2: Choose "Subscriptions" to view and select premium options*
