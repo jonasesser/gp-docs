@@ -75,7 +75,17 @@ Ensure you have the following installed:
 3. Installation is now complete. The server can be executed.
 
 ```bash
-    npm run dev or npm run windows
+    npm run dev
+    or
+    npm run windows
+```
+
+4. Issues with npm or EINVAL error?
+
+```bash
+npm cache clean --force
+npm run fix
+npm install
 ```
 
 (see package.json to see other scripts)
@@ -84,7 +94,19 @@ Ensure you have the following installed:
 
 To update from the upstream repository:
 
+```bash
+git pull upstream master
+```
+
+To update your own changes:
+
+```bash
+git pull
+```
+
 
 ## Original Installation Guide from Athena Framework
 
 https://athenaframework.com/tutorials/free/setup/
+
+## Please report any issues with this guide to the development team or directly create a PR to https://github.com/jonasesser/gp-docs
