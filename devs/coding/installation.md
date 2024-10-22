@@ -109,4 +109,4 @@ git pull
 
 https://athenaframework.com/tutorials/free/setup/
 
-## Please report any issues with this guide to the development team or directly create a PR to https://github.com/jonasesser/gp-docs
+Please report any issues with this guide to the development team or directly create a PR to https://github.com/jonasesser/gp-docs
