@@ -3,6 +3,16 @@
 ### Overview
 GP-Core is maintained for compatibility purposes and can be used for development. However, the code for GP Instances is not publicly available, which presents some challenges for developers.
 
+### Development Process for external Teams
+
+You can use the GP-Core for your own projects. We will answer most beginner questions in the Discord.
+We are very happy if you share your projects with us! If you find bugs, please report them in the github bug tracker.
+Also you can contribute by updating code or documentation.
+
+We give no garantee of the code, use it at your own risk.
+
+For more advanced questions or direct handson support, you can subscribe to our services with a premium sub. See Donations.
+
 ### Development Process for GP Team Members
 
 If you're part of the GP Team, you can customize the following aspects for your assigned instance:
