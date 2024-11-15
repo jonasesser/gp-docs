@@ -4,7 +4,7 @@ A huge thank you to everyone who supports me in developing **_Gangsta's Paradise
 
 A special thanks to my family and friends for their patience and understanding, giving me the space to bring my vision for **_Gangsta's Paradise_** to life.
 
-## Special Thanks to My Partners and Developers:
+## Special Thanks to partners, contributors and developers:
 
 - Atum
 - DevPanda
