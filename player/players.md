@@ -8,6 +8,8 @@ This is your starting point for an exciting roleplay experience. While we encour
 - [Keyboard Controls](./controls.md)
 - [Server Rules](./rules.md)
 - [Getting Support](./support.md)
+- [Coin System](./coins.md)
+
 
 Remember, the best experiences come from discovering things yourself and interacting with other players. Have fun and enjoy your stay in Gangsta's Paradise!
 
