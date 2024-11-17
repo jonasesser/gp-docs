@@ -4,7 +4,7 @@
 
 Our main Discord server is the central hub for all players, developers, and community members. It's the primary place for general discussions, announcements, and support.
 
-[Join our Main Discord Server](https://discord.gg/mainserverlinkhere)
+[Join our Main Discord Server](https://discord.gg/jPr7mtr5YV)
 
 ## Instance-Specific Discord Servers
 
