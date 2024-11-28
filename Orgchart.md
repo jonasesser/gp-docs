@@ -59,11 +59,24 @@
 
 ### Instance 2: GP: BerlinBeat
 
-#### Owner (TBA)
+#### Owner
+Job Description:
 - Overall responsibility for Instance 2
+- Strategic decision making and oversight
+- Setting direction and goals
+
+Current Assignment:
+- Position currently vacant (TBA)
+- Temporary oversight by Atum (Daniel)
 
 #### Admins
+Job Description:
 - Managing the instance on an operational level
+- Handling day-to-day operations
+- Implementing owner's directives
+
+Current Members:
+- Atum (Daniel)
 
 #### Support Lead
 - Leading the support team
