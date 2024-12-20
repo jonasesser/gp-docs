@@ -21,6 +21,8 @@ If you're part of the GP Team, you can customize the following aspects for your 
    - You can add MLOs, vehicles, and clothing.
    - These should be provided through a Git repository that you maintain.
 
+   Mods/MLOs Folder Path: resources/mods/local/[your addon mod folder name]
+
 2. **Overriding Configurations and Code**
    - Config files and code overrides can be implemented.
    - These changes should be made through a Git repository provided by GP.

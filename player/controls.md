@@ -76,6 +76,16 @@ When browsing animations, you'll notice various icons indicating special propert
 
 You can search for specific animations using the search bar at the top of the menu. Right-click any animation to configure custom hotkeys and add it to your quick-access menu.
 
+## Voice Audio Controls
+| Key | Description |
+|-----|-------------|
+| F3 | Open VoiceControl Dialog |
+
+In the VoiceControl Dialog, you can adjust various audio settings, including the volume of the vehicle engine. This feature allows for clearer communication with passengers while driving.
+
+![](/images/howtos/voicecontols.png)
+
+
 
 
 
